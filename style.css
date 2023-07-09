@@ -1,0 +1,24 @@
+.test{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  
+}
+.aa{
+  background-color: red;
+  width: 120px;
+  height: 110px;
+  text-align: center;
+}
+.cc{  background-color:green;
+  width: 120px;
+  text-align: center;
+  height: 110px;
+
+}
+.bb{ background-color: blue;
+  width: 120px;
+  text-align: center;
+  height: 110px;
+
+}
